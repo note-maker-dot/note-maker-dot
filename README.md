@@ -10,19 +10,6 @@
 ### "Distilling hundreds of lecture hours into concise, logic-driven mastery."
 *Focused Summaries • Visual Architectures • Exam-Centric Logic*
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="your-username" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
-
----
-
-</div>
-
 ## 📚 Study Resource Catalog (2026)
 
 | Subject | Scope | Status | Access |
