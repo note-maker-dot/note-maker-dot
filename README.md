@@ -14,7 +14,7 @@
 
 | Subject | Scope | Status | Access |
 | :--- | :--- | :--- | :--- |
-| **📊 Business Intelligence** | 12-Week Master Guide (ETL, ANN, Data Mining) | ✅ Live | [View Guide & Samples](https://github.com/note-maker-dot/Business_intelligence_and_Analytics)) |
+| **📊 Business Intelligence** | 12-Week Master Guide (ETL, ANN, Data Mining) | ✅ Live | [View Guide & Samples](https://github.com/note-maker-dot/Business_intelligence_and_Analytics) |
 | **🤖 AI & Machine Learning** | Statistical Learning, Regression, Deep Learning | ⏳ Coming Soon | [Notify Me](mailto:your-burner-email@gmail.com) |
 | **🏦 Financial Analytics** | Risk Modeling, Time Series, Fintech Foundations | ⏳ Coming Soon | [Notify Me](mailto:your-burner-email@gmail.com) |
 
