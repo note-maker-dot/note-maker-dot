@@ -12,6 +12,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="your-username" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
+
+---
+
 </div>
 
 ## 📚 Study Resource Catalog (2026)
@@ -40,6 +49,4 @@ For bulk access for college groups or payment assistance:
 ---
 <div align="center">
   <sub>All resources are independently curated and updated for the 2026 curriculum.</sub>
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="Visitors" />
 </div>
